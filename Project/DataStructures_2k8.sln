@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "(1) QueueList_2k8", "QueueList_2k8.vcproj", "{E23CDAE1-2B2E-45EB-9176-6EC54F8FF596}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "(3) HashMap_2k8", "HashMap_2k8.vcproj", "{760B515C-4028-4BAD-A04C-9DD2A7D96AE3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "(2) Tree_2k8", "Tree_2k8.vcproj", "{15625CA3-2141-42EC-94DC-9B1536A4EBCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E23CDAE1-2B2E-45EB-9176-6EC54F8FF596}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E23CDAE1-2B2E-45EB-9176-6EC54F8FF596}.Debug|Win32.Build.0 = Debug|Win32
+		{E23CDAE1-2B2E-45EB-9176-6EC54F8FF596}.Release|Win32.ActiveCfg = Release|Win32
+		{E23CDAE1-2B2E-45EB-9176-6EC54F8FF596}.Release|Win32.Build.0 = Release|Win32
+		{760B515C-4028-4BAD-A04C-9DD2A7D96AE3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{760B515C-4028-4BAD-A04C-9DD2A7D96AE3}.Debug|Win32.Build.0 = Debug|Win32
+		{760B515C-4028-4BAD-A04C-9DD2A7D96AE3}.Release|Win32.ActiveCfg = Release|Win32
+		{760B515C-4028-4BAD-A04C-9DD2A7D96AE3}.Release|Win32.Build.0 = Release|Win32
+		{15625CA3-2141-42EC-94DC-9B1536A4EBCB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{15625CA3-2141-42EC-94DC-9B1536A4EBCB}.Debug|Win32.Build.0 = Debug|Win32
+		{15625CA3-2141-42EC-94DC-9B1536A4EBCB}.Release|Win32.ActiveCfg = Release|Win32
+		{15625CA3-2141-42EC-94DC-9B1536A4EBCB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
